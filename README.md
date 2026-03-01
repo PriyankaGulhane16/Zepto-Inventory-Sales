@@ -1,29 +1,137 @@
-# Zepto-Inventory-Sales
+🛒 Zepto Inventory Sales Data Analytics (SQL Project)
 
-Project Overview :-
+📌 Project Overview
+
 This project is an end-to-end SQL-based data analysis using real-world e-commerce inventory data from Zepto.
-The objective is to simulate real business scenarios by performing data cleaning, exploration, and business insight generation using SQL.
 
+The goal was to simulate real business scenarios by performing structured data cleaning, exploration, and generating actionable business insights using SQL. The project focuses on inventory performance, stock management, pricing strategy, and profitability analysis.
 
-Project Objectives:-
+🎯 Project Objectives
+
 Design and create the inventory database schema
+
 Load and clean a large inventory dataset
-Perform structured EDA (Exploratory Data Analysis)
-Derive actionable business insights using advanced SQL queries
-Present metrics such as turnover ratio, stock-outs, and profitability
 
-Data Cleaning:-
-Removed rows where MRP or selling price was zero
-Converted prices from paise to rupees for clarity
-Rounded values for better readability
-Checked for discrepancies in discount calculations
-Ensured no NULLs in primary analytical columns
+Perform structured Exploratory Data Analysis (EDA)
+
+Generate actionable business insights using advanced SQL queries
+
+Calculate key business metrics such as:
+
+Inventory Turnover Ratio
+
+Stock-out Analysis
+
+Profitability Metrics
+
+Discount Effectiveness
 
 
-Data Exploration:-
-Counted the total number of rows in the dataset
-Displayed a sample of records to understand structure
-Checked for null/missing values across all columns
-Identified all unique product categories
+🗄️ Database Design
+
+Designed a structured inventory schema
+
+Defined appropriate data types
+
+Set primary keys and constraints
+
+Optimized for analytical queries
+
+The schema supports efficient aggregation, filtering, and KPI reporting.
+
+
+🧹 Data Cleaning
+
+To ensure high-quality analysis, the following steps were performed:
+
+Removed rows where MRP or Selling Price = 0
+
+Converted price values from paise to rupees for clarity
+
+Rounded monetary values for better readability
+
+Validated discount percentage calculations
+
+Checked and ensured no NULL values in key analytical columns
+
+Removed inconsistencies impacting profitability metrics
+
+
+🔎 Data Exploration (EDA)
+
+Structured SQL queries were written to explore and validate the dataset:
+
+Counted total number of records
+
+Displayed sample rows to understand data structure
+
+Checked for missing/null values across columns
+
+Identified unique product categories
+
 Analyzed in-stock vs out-of-stock SKU distribution
-Found duplicate product names with different SKUs
+
+Detected duplicate product names mapped to different SKUs
+
+This phase ensured a strong understanding of inventory behavior before deeper analysis.
+
+
+📊 Business Analysis & Metrics
+
+Advanced SQL queries were used to derive business insights:
+
+📦 Inventory Turnover Ratio
+
+🚫 Stock-out Frequency Analysis
+
+💰 Profit Margin & Revenue Contribution
+
+🏷 Discount Impact on Sales
+
+🏬 Category-wise Performance
+
+🔁 High vs Low Movement Products
+
+These metrics simulate real-world e-commerce decision-making scenarios.
+
+
+📈 Key Insights
+
+Identified fast-moving and slow-moving inventory
+
+Detected high stock-out categories affecting revenue
+
+Highlighted discount discrepancies impacting margins
+
+Revealed category-level profitability trends
+
+Provided data-backed recommendations for pricing and stock optimization
+
+
+🛠 Tools & Technologies
+
+SQL
+
+PostgreSQL / SQL Server
+
+Relational Database Design
+
+Data Cleaning & Validation
+
+Business KPI Analysis
+
+
+
+💼 Skills Demonstrated
+
+SQL Query Writing (Advanced Aggregations, Group By, Filtering)
+
+Data Cleaning & Validation
+
+Database Schema Design
+
+Business KPI Development
+
+Inventory & Profitability Analysis
+
+Translating Raw Data into Strategic Insights
