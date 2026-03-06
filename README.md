@@ -135,7 +135,6 @@ Identified high-MRP products that are currently out of stock
 
 Filtered expensive products (MRP > ₹500) with minimal discount
 
-Ranked top 5 categories offering highest average discounts
 
 Calculated price per gram to identify value-for-money products
 
@@ -150,6 +149,28 @@ Highlighted discount discrepancies impacting margins
 Revealed category-level profitability trends
 
 Provided data-backed recommendations for pricing and stock optimization
+
+
+
+
+
+💡 Key Recommendations
+
+1. Restock High-MRP Out-of-Stock Products
+High-priced products that are currently out of stock may lead to lost revenue opportunities. Prioritize restocking these items to capture high-value sales.
+
+2. Optimize Discount Strategy
+Since discount discrepancies are affecting margins, the company should standardize discount policies across categories to balance sales growth and profitability.
+
+
+3. Prevent Stock-Outs in High-Demand Categories
+Categories with frequent stock-outs should have better demand forecasting and safety stock levels to avoid revenue loss.
+
+4. Increase Discounts on Expensive Products
+Products priced above ₹500 with minimal discounts may experience slower sales. Introducing targeted discounts or bundles can improve demand.
+
+5. Focus on High-Discount Categories
+The top 5 categories offering high average discounts can be used in seasonal promotions and advertisements to drive traffic and sales.
 
 
 
