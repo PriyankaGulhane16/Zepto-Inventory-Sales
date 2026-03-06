@@ -95,18 +95,6 @@ Advanced SQL queries were used to derive business insights:
 These metrics simulate real-world e-commerce decision-making scenarios.
 
 
-📈 Key Insights
-
-Identified fast-moving and slow-moving inventory
-
-Detected high stock-out categories affecting revenue
-
-Highlighted discount discrepancies impacting margins
-
-Revealed category-level profitability trends
-
-Provided data-backed recommendations for pricing and stock optimization
-
 
 🛠 Tools & Technologies
 
@@ -135,3 +123,44 @@ Business KPI Development
 Inventory & Profitability Analysis
 
 Translating Raw Data into Strategic Insights
+
+
+
+
+📊 Business Insights
+
+Found top 10 best-value products based on discount percentage
+
+Identified high-MRP products that are currently out of stock
+
+Estimated potential revenue for each product category
+
+Filtered expensive products (MRP > ₹500) with minimal discount
+
+Ranked top 5 categories offering highest average discounts
+
+Calculated price per gram to identify value-for-money products
+
+Grouped products based on weight into Low, Medium, and Bulk categories
+
+Measured total inventory weight per product category
+
+
+
+
+📈 Key Insights
+
+Identified fast-moving and slow-moving inventory
+
+Detected high stock-out categories affecting revenue
+
+Highlighted discount discrepancies impacting margins
+
+Revealed category-level profitability trends
+
+Provided data-backed recommendations for pricing and stock optimization
+
+
+
+
+
